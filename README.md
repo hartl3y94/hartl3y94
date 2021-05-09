@@ -13,4 +13,4 @@
 
 Find me @hartley94
 
-[!My github stats](https://github-readme-stats.vercel.app/api?username=hartl3y94)](https://github.com/hartl3y94/github-readme-stats)
+
