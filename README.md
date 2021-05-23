@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 
 - 🔭 I’m a Security Researcher based K.E.
 - 🌱 I’m currently learning web, computer and network security.
 - 👯 I’m looking to collaborate on security.
