@@ -1,5 +1,5 @@
 ### 
-- 🔭 I’m a Security Researcher based K.E.
+- 🔭 I’m a Security Researcher based in K.E.
 - 
 - 💬 Ask me about anything.
 - 
