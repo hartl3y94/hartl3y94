@@ -4,9 +4,3 @@
 - 😄 Pronouns: Any with Respect.
 
 
-
-
-
-.
-              ❤ 
-                                    
